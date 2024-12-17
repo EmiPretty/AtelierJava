@@ -1,6 +1,4 @@
 abstract class Monster {
-
-
     private String name;
     private int attack;
     private int life = 40;
